@@ -7,7 +7,7 @@ import stocks
 import os
 
 # discord bot access key (top secret woooooo)
-key = 'NjA0ODczOTQ1MDQ0NDg0MTEx.XT0Swg.j3qOdLBM9lIiDeDseaRiNPPzmXc'
+key = ''
 
 # create a dynamic class that inherits from the parent, with infinite upgradeability! i think this looks nicer than the last one with functions floating about
 class MyClient(discord.Client):
