@@ -1,2 +1,2 @@
-# GMETOTHEMOONDISCBOT
-GME to the Moon Discord Bot
+# GMETOTHEMOONDISCBOT 🚀🚀🚀🚀🚀🚀🚀🚀
+GME to the Moon Discord Bot Code 🚀🚀🚀🚀🚀🚀🚀🚀
